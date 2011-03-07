@@ -1,0 +1,18 @@
+{
+	"name": "Reset Style Sheet Exposer",
+	"version": "1.0",
+	"description": "Displays reset style sheets.",
+	"icons": {
+		"16": "reset.s.png",
+		"48": "reset.m.png",
+		"128": "reset.l.png"
+	},
+	// "browser_action": {
+	// 	"default_icon": "reset.s.png"
+	// },
+	"content_scripts": [{
+		"matches": ["<all_urls>"],
+		"css": ["reset.css"]
+	}],
+	"homepage_url": "http://meiert.com/en/"
+}
