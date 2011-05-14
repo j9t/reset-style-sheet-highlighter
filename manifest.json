@@ -1,7 +1,7 @@
 {
 	"name": "Reset Style Sheet Exposer",
-	"version": "1.0",
-	"description": "Displays reset style sheets.",
+	"version": "1.0.1",
+	"description": "Displays common reset style sheets, like Eric Meyer’s and Yahoo’s “Reset CSS”.",
 	"icons": {
 		"16": "reset.s.png",
 		"48": "reset.m.png",
@@ -11,5 +11,5 @@
 		"matches": ["<all_urls>"],
 		"css": ["reset.css"]
 	}],
-	"homepage_url": "http://meiert.com/en/"
+	"homepage_url": "http://code.google.com/p/reset-style-sheet-exposer/"
 }
