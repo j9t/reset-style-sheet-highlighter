@@ -1,7 +1,7 @@
 {
 	"name": "Reset Style Sheet Exposer",
-	"version": "1.0.3",
-	"description": "Displays common reset style sheets, like Eric Meyer’s and Yahoo’s “Reset CSS”.",
+	"version": "1.1.0",
+	"description": "Indicates use of common reset style sheets, ike Yahoo’s Reset CSS, Eric Meyer’s Reset CSS, Tantek Çelik’s undohtml.css, and Rich Clark’s html5resetcss.",
 	"icons": {
 		"16": "reset.s.png",
 		"48": "reset.m.png",
