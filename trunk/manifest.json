@@ -1,7 +1,7 @@
 {
 	"name": "Reset Style Sheet Exposer",
-	"version": "1.1.0",
-	"description": "Indicates use of common reset style sheets, include those from Yahoo, Eric Meyer, Tantek Çelik, and Rich Clark.",
+	"version": "1.1.1",
+	"description": "Indicates use of common reset style sheets, including those from Yahoo, Eric Meyer, Tantek Çelik, and Rich Clark.",
 	"icons": {
 		"16": "reset.s.png",
 		"48": "reset.m.png",
