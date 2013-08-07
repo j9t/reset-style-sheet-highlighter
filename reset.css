@@ -1,11 +1,8 @@
 head {
-	background: #d5d3d4 !important;
-	border-bottom: 1px solid #7a7a7a !important;
 	direction: ltr !important;
 	display: block !important;
-	font: 11px/28px verdana, sans-serif !important;
+	font: 11px/29px verdana, sans-serif !important;
 	overflow: hidden !important;
-	padding: 3px 5px 4px 0 !important;
 }
 
 link {
