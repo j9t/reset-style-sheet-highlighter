@@ -1,6 +1,6 @@
 {
 	"name": "Reset Style Sheet Exposer",
-	"version": "1.2",
+	"version": "1.5",
 	"manifest_version": 2,
 	"description": "Indicates use of common reset style sheets, including those from Yahoo as well as señores Meyer, Çelik, Gallagher, Neal, and Clark.",
 	"icons": {
