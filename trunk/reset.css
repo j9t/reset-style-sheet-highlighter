@@ -1,7 +1,7 @@
 head {
 	direction: ltr !important;
 	display: block !important;
-	font: 11px/29px verdana, sans-serif !important;
+	font: 11px/30px verdana, sans-serif !important;
 	overflow: hidden !important;
 }
 
@@ -22,7 +22,7 @@ link[href$=undohtml\.css]:after {
 	border-radius: 5px !important;
 	content: 'Reset style sheet: ' attr(href) !important;
 	color: #fff !important;
-	left: 5px !important;
+	left: 3px !important;
 	padding: 4px 5px 6px !important;
 	position: relative !important;
 	white-space: nowrap !important;
