@@ -1,5 +1,4 @@
 head {
-	direction: ltr !important;
 	display: block !important;
 	font: 11px/30px verdana, sans-serif !important;
 	overflow: hidden !important;
@@ -9,6 +8,11 @@ link {
 	display: inline !important;
 }
 
+link[href$=html5reset\.css]:after,
+link[href$=html5reset-1\.2\.css]:after,
+link[href$=html5reset-1\.3\.css]:after,
+link[href$=html5reset-1\.4\.css]:after,
+link[href$=html5reset-1\.4\.1\.css]:after,
 link[href$=html5reset-1\.5\.css]:after,
 link[href$=html5reset-1\.5\.1\.css]:after,
 link[href$=html5reset-1\.6\.css]:after,
@@ -22,8 +26,7 @@ link[href$=undohtml\.css]:after {
 	border-radius: 5px !important;
 	content: 'Reset style sheet: ' attr(href) !important;
 	color: #fff !important;
-	left: 3px !important;
+	margin: 3px !important;
 	padding: 4px 5px 6px !important;
-	position: relative !important;
 	white-space: nowrap !important;
 }
