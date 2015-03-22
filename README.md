@@ -7,5 +7,3 @@ Source of the incredible <a href="https://chrome.google.com/webstore/detail/lnek
 ----
 
 Source and extension are maintained (as of August 19, 2013). Please <a href="https://github.com/j9t/reset-style-sheet-exposer/issues/new">report issues or send feature requests</a>.
-
-(<a href="https://code.google.com/p/reset-style-sheet-exposer/">Just moved from Google Project Hosting.</a>)
