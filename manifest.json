@@ -1,16 +1,16 @@
 {
-	"name": "Reset Style Sheet Exposer",
-	"version": "1.5.7",
-	"manifest_version": 2,
+	"content_scripts": [{
+		"matches": ["<all_urls>"],
+		"css": ["reset.css"]
+	}],
 	"description": "Indicates use of common reset style sheets, including those from Yahoo as well as señores Meyer, Çelik, Gallagher, Neal, and Clark.",
+	"homepage_url": "http://code.google.com/p/reset-style-sheet-exposer/",
 	"icons": {
 		"16": "reset.s.png",
 		"48": "reset.m.png",
 		"128": "reset.l.png"
 	},
-	"content_scripts": [{
-		"matches": ["<all_urls>"],
-		"css": ["reset.css"]
-	}],
-	"homepage_url": "http://code.google.com/p/reset-style-sheet-exposer/"
+	"manifest_version": 2,
+	"name": "Reset Style Sheet Exposer",
+	"version": "1.5.8"
 }
