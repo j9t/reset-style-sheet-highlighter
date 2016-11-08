@@ -13,7 +13,7 @@ Source and extension are maintained (as of August 4, 2015). Please [report issue
 [3]: http://meyerweb.com/eric/tools/css/reset/
 [4]: http://tantek.com/log/2004/09.html#d06t2354
 [5]: http://necolas.github.com/normalize.css/
-[6]: http://code.google.com/p/html5resetcss/
+[6]: https://code.google.com/archive/p/html5resetcss/
 [7]: https://plus.google.com/114697646623413794481/posts/exdHF4Dyf7Y
 [8]: http://hell.meiert.org/core/html/reset.aux.html
 [9]: https://github.com/j9t/reset-style-sheet-exposer/issues/new
