@@ -8,7 +8,7 @@ Source of the incredible [**Chrome extension**][1]: displays common reset style 
 
 Source and extension are maintained (as of August 4, 2015). Please [report issues or send feature requests][9].
 
-[1]: https://chrome.google.com/webstore/detail/lnekfhlkfibaamhifbfmcobiglhcbmbl
+[1]: https://chrome.google.com/webstore/detail/reset-style-sheet-exposer/lnekfhlkfibaamhifbfmcobiglhcbmbl
 [2]: http://developer.yahoo.com/yui/reset/
 [3]: http://meyerweb.com/eric/tools/css/reset/
 [4]: http://tantek.com/log/2004/09.html#d06t2354
