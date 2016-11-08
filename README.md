@@ -1,4 +1,4 @@
-# reset-style-sheet-exposer
+# Reset Style Sheet Exposer
 
 Source of the incredible [**Chrome extension**][1]: displays common reset style sheets, like [Yahoo’s Reset CSS][2], [Eric Meyer’s Reset CSS][3], [Tantek Çelik’s undohtml.css][4], Nicolas Gallagher’s and Jonathan Neal’s [normalize.css][5], and [Rich Clark’s html5resetcss][6]. ([Why reset style sheets are problematic.][7])
 
