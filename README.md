@@ -6,7 +6,7 @@ Source of the incredible [**Chrome extension**][1]: displays common reset style 
 
 ----
 
-Source and extension are maintained (as of August 4, 2015). [Contributions welcome.][9]
+Source and extension are maintained (as of November 8, 2016). [Contributions welcome.][9]
 
 [1]: https://chrome.google.com/webstore/detail/reset-style-sheet-exposer/lnekfhlkfibaamhifbfmcobiglhcbmbl
 [2]: http://developer.yahoo.com/yui/reset/
