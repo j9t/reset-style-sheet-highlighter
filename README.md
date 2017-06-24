@@ -8,7 +8,7 @@ Source of the incredible [**Chrome extension**][1] which indicates use of common
 
 Source and extension are maintained (as of June 24, 2017). [Contributions welcome.][9]
 
-[1]: https://chrome.google.com/webstore/detail/reset-style-sheet-exposer/lnekfhlkfibaamhifbfmcobiglhcbmbl
+[1]: https://chrome.google.com/webstore/detail/reset-style-sheet-highlig/lnekfhlkfibaamhifbfmcobiglhcbmbl
 [2]: http://developer.yahoo.com/yui/reset/
 [3]: http://meyerweb.com/eric/tools/css/reset/
 [4]: http://tantek.com/log/2004/09.html#d06t2354
