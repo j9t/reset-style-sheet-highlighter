@@ -1,4 +1,4 @@
-# Reset Style Sheet Exposer
+# Reset Style Sheet Highlighter
 
 Source of the incredible [**Chrome extension**][1] which indicates use of common reset style sheets, like [Yahoo’s Reset CSS][2], [Eric Meyer’s Reset CSS][3], [Tantek Çelik’s undohtml.css][4], Nicolas Gallagher’s and Jonathan Neal’s [normalize.css][5], and [Rich Clark’s html5resetcss][6]. ([Why reset style sheets are problematic.][7])
 
@@ -16,4 +16,4 @@ Source and extension are maintained (as of November 8, 2016). [Contributions wel
 [6]: https://code.google.com/archive/p/html5resetcss/
 [7]: https://plus.google.com/114697646623413794481/posts/exdHF4Dyf7Y
 [8]: https://hell.meiert.org/core/html/reset.aux.html
-[9]: https://github.com/j9t/reset-style-sheet-exposer/issues/new
+[9]: https://github.com/j9t/reset-style-sheet-highlighter/issues/new
