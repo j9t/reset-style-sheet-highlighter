@@ -3,7 +3,7 @@
 		"matches": ["<all_urls>"],
 		"css": ["reset.css"]
 	}],
-	"description": "Indicates use of common reset style sheets, including those from Yahoo as well as the gentlemen Meyer, Çelik, Gallagher, Neal, and Clark.",
+	"description": "Indicates use of common reset style sheets, including those from Yahoo or the gentlemen Meyer, Çelik, Gallagher, Neal, and Clark.",
 	"homepage_url": "https://github.com/j9t/reset-style-sheet-highlighter",
 	"icons": {
 		"16": "reset.s.png",
