@@ -27,7 +27,7 @@ link[href$=reset-min\.css]:after,
 link[href$=reset200802\.css]:after,
 link[href$=undohtml\.css]:after {
 	background: #900 !important;
-	border-radius: 5px !important;
+	border-radius: 3px !important;
 	content: 'Reset style sheet: ' attr(href) !important;
 	color: #fff !important;
 	margin: 3px !important;
