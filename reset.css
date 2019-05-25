@@ -28,8 +28,8 @@ link[href$=reset200802\.css]:after,
 link[href$=undohtml\.css]:after {
 	background: #900 !important;
 	border-radius: 3px !important;
-	content: 'Reset style sheet: ' attr(href) !important;
 	color: #fff !important;
+	content: 'Reset style sheet: ' attr(href) !important;
 	margin: 3px !important;
 	padding: 4px 5px 6px !important;
 	white-space: nowrap !important;
