@@ -6,4 +6,4 @@ Source of the revealing [**Chrome extension**](https://chrome.google.com/webstor
 
 ----
 
-Source and extension are maintained (as of June 25, 2017). [Contributions welcome.](https://github.com/j9t/reset-style-sheet-highlighter/issues/new)
+Source and extension are somewhat unmaintained (as of September 16, 2023). [Contributions welcome.](https://github.com/j9t/reset-style-sheet-highlighter/issues/new)
